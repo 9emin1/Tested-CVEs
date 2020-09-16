@@ -1,2 +1,2 @@
 # Tested-CVEs
-tested and proven. good to go
+Useful CVEs that were tested and proven to work in the intended way.
